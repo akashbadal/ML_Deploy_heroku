@@ -1,2 +1,2 @@
 # ML_Deploy_heroku
-Deploying a sample Salary predicting ML model on Heroku Platform
+Deployment of  a basic Salary predicting Machine learning  model on Heroku Platform.
